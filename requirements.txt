@@ -1,3 +1,2 @@
 streamlit
 google-generativeai
-        *(Bu dosya, sunucunun hangi kütüphaneleri yüklemesi gerektiğini söyler.)*
